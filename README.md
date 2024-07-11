@@ -1,7 +1,3 @@
-Certainly! Here’s a concise version of the `README.md` focusing on the essential information about your Scrapy spider:
-
----
-
 # DrugScraper
 
 This Scrapy spider (`DrugsspiderSpider`) scrapes drug information from `www.drugs.com`. It extracts drug names, generic names, drug classes, and URLs directly from the website.
